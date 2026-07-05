@@ -1,0 +1,28 @@
+{
+  "citations": [
+    "[creao.ai](https://creao.ai/for/real-estate)",
+    "[creao.ai](https://creao.ai/ai-super-agent)",
+    "[inman.com](https://www.inman.com/2026/06/15/fello-just-solved-the-1-problem-for-real-estate-teams/)",
+    "[nowbam.com](https://nowbam.com/most-agents-ai-stalls-at-the-chat-window-heres-the-5-system-fix/)",
+    "[azbigmedia.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxOUXpKazdjZkdrY1kyYTh1S21uUWw4UjhseWJqSHBuNm5XQ2dmWnpRRVBSNWhvMGdENjBmanRIQk1lZlNLa2hoRjA3MG5iYVBqb0I2aXlPTGpfb1V3bXZVQXNFMXJHUE9rbGFfYkNWdUtqM2pWQnl6N3p6YjJ2LW00TzVBOVBqaHdJZVFaRnF2ZDJVM25PSlQ0N3RlclZfV3A5NHRJRjNpc3Uxdm4tbkVveWFlYkZDdw?oc=5)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-in-gemini-3-5-flash/)",
+    "[scmedia.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxNdzI4SHY5RUNhUEQ0X2lETmh4SkdxaVQ4SHNaVlJ3X2EtYVJxMm0tT0tvQ3R1Z3ZVTGpuLWxWVEtFQW1qd3ZaVjFpdDlVMGhWUDc3QkFDd1pxQk9xZmxaYUg4ZE55SVB6dEw3TzhmdDJjRmo1RmJsUUR2UXF5MkNlakd6TFlQczdjOGJRZUMzRjhJSlpa?oc=5)"
+  ],
+  "design_plan": "rng(seed=42)->layout=comparison-architecture; AIDA=pass; hero_lines=2.4; bento_density=grid-auto-flow:dense verified; competitors_mentioned=6; button_contrast=AA; cache_phrase=present",
+  "generated_at": "2026-07-05T00:19:48.373337+00:00",
+  "headline": "Super for real estate agents managing follow\u2011ups, listings, and scheduling",
+  "site_brief": {
+    "audience": "real estate agents managing follow-ups, listings, and scheduling",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "real estate agents managing follow-ups, listings, and scheduling AI assistant",
+      "real estate agents managing follow-ups, listings, and scheduling personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-real-estate-agents-managing-follow-ups-listings",
+    "title": "Super for real estate agents managing follow-ups, listings, and scheduling"
+  },
+  "summary": "A conversion\u2011focused niche landing page showing how Super acts as a personal AI agent that actually operates MLS tools, CRMs, calendars, and email \u2014 reusing a computer-use cache so repeated listing launches, follow\u2011ups, and scheduling runs get faster and cheaper over time."
+}
